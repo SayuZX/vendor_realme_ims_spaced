@@ -1,9 +1,8 @@
 PRODUCT_SOONG_NAMESPACES += \
-    vendor/realme/ims-spaced
+    vendor/realme/mtk-ims
 
 # Apps
 PRODUCT_PACKAGES += \
-    ImsService \
     EngineerMode
 
 # Radio IMS Boot Jar
